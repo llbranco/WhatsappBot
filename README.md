@@ -1,4 +1,4 @@
-<h1 align="center">Whatshapp-bot traduzido</h1>
+<h1 align="center">Whatsapp-bot traduzido</h1>
 
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/89029936?v=4" width="128" height="128"/>
